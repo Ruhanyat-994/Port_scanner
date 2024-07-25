@@ -1,5 +1,3 @@
-
-```markdown
 # Port Scanner
 
 ## Overview
@@ -63,4 +61,3 @@ java Main 127.0.0.1 80 85
 
 For any questions or comments, feel free to contact me at [alruhanyat994@gmail.com].
 
-```
